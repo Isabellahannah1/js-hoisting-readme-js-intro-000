@@ -2,8 +2,11 @@ function callMe(){
   return "maybe";
 }
 
-function thisIsCazy(){
+var thisIsCrazy = function(){
   console.log("hey!!!");
+}
+thisIsCrazy();
+}
 }
 
 var name = "Cricky";
