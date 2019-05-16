@@ -16,11 +16,17 @@ function crazy() {
 thisIsCrazy();
 }
 
+var name = "Kristin";
 
 function sayMyName() {
-  
+  console.log(name);
   var name = "Cricky";
-  function sayMy() {
+}
+sayMyName();
+
+console.log(name);
+
+{
 
   console.log(name);
   }
