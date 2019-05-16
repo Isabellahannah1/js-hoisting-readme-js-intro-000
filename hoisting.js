@@ -7,7 +7,6 @@ function callMe() {
     return lyric;
 }	
 
-
 function crazy() { 
   
   var thisIsCrazy = function (){
@@ -25,7 +24,6 @@ function sayMyName() {
   }
    sayMy();
 }
-=======
   function thisIsCrazy(){
     console.log("hey!!!")
   }
@@ -35,4 +33,3 @@ function sayMyName(){
   console.log("Cricky")
 }
   sayMyName();
->>>>>>> 1c9386962316908fe5d1971a1d0743d014ceef9f
