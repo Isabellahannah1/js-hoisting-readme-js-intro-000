@@ -6,6 +6,8 @@ function sayMyName(){
   console.log("Kristin");
 }
 
+sayMy();
+
 function thisIsCrazy(){
   console.log("hey!!!");
 }
