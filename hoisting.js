@@ -2,10 +2,16 @@ function callMe(){
   return "maybe";
 }
 
-var crazy = "hey!!!";
-
 function sayMyName(){
   console.log("Kristin");
 }
 
-console.log(crazy);
+function crazy() {
+  return () => {
+    return () => {
+      return 'hey!!!'
+    }
+  }
+}
+ 
+crazy()()()
