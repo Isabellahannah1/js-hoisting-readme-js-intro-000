@@ -16,21 +16,16 @@ function crazy() {
 thisIsCrazy();
 }
 
-var name = "Kristin";
 function sayMyName() {
-  console.log(name)
+  
   var name = "Cricky";
-}
-sayMyName();
-console.log(name);
-
   function sayMy() {
-
+  var name = "Kristin";
   console.log(name);
   }
    sayMy();
 }
-
+=======
   function thisIsCrazy(){
     console.log("hey!!!")
   }
@@ -40,3 +35,4 @@ function sayMyName(){
   console.log("Cricky")
 }
   sayMyName();
+>>>>>>> 1c9386962316908fe5d1971a1d0743d014ceef9f
