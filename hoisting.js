@@ -24,13 +24,3 @@ function sayMyName() {
   }
   
    sayMyName();
-
-  function thisIsCrazy(){
-    console.log("hey!!!")
-  }
-thisIsCrazy();
-
-function sayMyName(){
-  console.log("Cricky")
-}
-  sayMyName();
