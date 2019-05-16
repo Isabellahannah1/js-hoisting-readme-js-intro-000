@@ -9,3 +9,5 @@ function sayMyName(){
 function thisIsCrazy(){
   console.log("hey!!!");
 }
+
+thisIsCrazy();
