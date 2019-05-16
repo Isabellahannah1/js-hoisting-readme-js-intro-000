@@ -7,24 +7,16 @@ function callMe() {
     return lyric;
 }	
 
-var name = "Kristin";
-
-function crazy() { 
-  
-  var thisIsCrazy = function (){
-    console.log("hey!!!")
-  }
-thisIsCrazy();
-}
-
 function sayMyName() {
-  console.log(name);
+  
   var name = "Cricky";
   function sayMy() {
-  
+  var name = "Kristin";
+  console.log(name);
   }
    sayMy();
 }
+
   function thisIsCrazy(){
     console.log("hey!!!")
   }
@@ -34,5 +26,3 @@ function sayMyName(){
   console.log("Cricky")
 }
   sayMyName();
-  
-  console.log(name);
