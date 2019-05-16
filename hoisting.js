@@ -23,7 +23,6 @@ function sayMyName() {
   console.log(name);
   }
    sayMyName();
-}
 
   function thisIsCrazy(){
     console.log("hey!!!")
