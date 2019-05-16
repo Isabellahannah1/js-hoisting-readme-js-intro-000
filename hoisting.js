@@ -25,7 +25,7 @@ function sayMyName() {
   }
    sayMy();
 }
-=======
+
   function thisIsCrazy(){
     console.log("hey!!!")
   }
