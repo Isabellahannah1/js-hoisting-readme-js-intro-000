@@ -18,9 +18,10 @@ thisIsCrazy();
 }
 
 function sayMyName() {
+  console.log(name);
   var name = "Cricky";
   function sayMy() {
-  console.log(name);
+  
   }
    sayMy();
 }
@@ -33,3 +34,5 @@ function sayMyName(){
   console.log("Cricky")
 }
   sayMyName();
+  
+  console.log(name);
