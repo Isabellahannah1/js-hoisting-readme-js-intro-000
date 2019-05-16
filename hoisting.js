@@ -6,12 +6,6 @@ function sayMyName(){
   console.log("Kristin");
 }
 
-function crazy() {
-  return () => {
-    return () => {
-      console.log('hey!!!')
-    }
-  }
+function thisIsCrazy(){
+  console.log("hey!!!");
 }
- 
-crazy()()()
