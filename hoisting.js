@@ -3,8 +3,8 @@ function callMe(){
 }
 
 
+
 function sayMyName(){
   console.log("Kristin");
 }
 
-var crazy = "hey!!!"
