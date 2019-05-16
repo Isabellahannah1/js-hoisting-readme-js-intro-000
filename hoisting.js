@@ -25,20 +25,3 @@ function sayMyName() {
 sayMyName();
 
 console.log(name);
-
-{
-
-  console.log(name);
-  
-   sayMyName();
-}
-
-  function thisIsCrazy(){
-    console.log("hey!!!");
-  }
-thisIsCrazy();
-
-function sayMyName(){
-  console.log("Cricky");
-}
-  sayMyName();
