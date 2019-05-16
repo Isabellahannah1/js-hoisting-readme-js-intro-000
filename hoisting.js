@@ -7,7 +7,6 @@ var thisIsCrazy = function(){
 }
 thisIsCrazy();
 }
-}
 
 var name = "Cricky";
 
