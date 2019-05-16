@@ -16,10 +16,14 @@ function crazy() {
 thisIsCrazy();
 }
 
-var name = 
+var name = "Kristin";
 function sayMyName() {
-  
+  console.log(name)
   var name = "Cricky";
+}
+sayMyName();
+console.log(name);
+
   function sayMy() {
 
   console.log(name);
