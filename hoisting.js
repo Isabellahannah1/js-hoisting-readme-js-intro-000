@@ -9,7 +9,7 @@ function sayMyName(){
 function crazy() {
   return () => {
     return () => {
-      return 'hey!!!'
+      console.log('hey!!!')
     }
   }
 }
